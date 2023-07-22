@@ -23,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyasagar06&show_icons=true&locale=en&layout=compact" alt="priyasagar06" /></p>
   </ul>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyasagar06&" alt="priyasagar06" /></p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyasagar06&label=Profile%20views&color=0e75b6&style=flat" alt="priyasagar06" /> </p>
