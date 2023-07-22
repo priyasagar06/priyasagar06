@@ -16,12 +16,10 @@
   <h2>🛠️ Tools and Technologies</h2>
   <ul>
     <li>Languages: Python</li>
-    <li>Frameworks: TensorFlow, PyTorch, scikit-learn</li>
+    <li>Frameworks: TensorFlow, PyTorch, scikit-learn</li> 
     <li>Data Processing: Pandas, NumPy</li>
     <li>Visualization: Matplotlib, Seaborn</li>
-    <li>Version Control: Git</li>
-  </ul>
-</body>
-</html>
+    <li>Version Control: Git</li> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyasagar06&show_icons=true&locale=en&layout=compact" alt="priyasagar06" /></p>
-
+  </ul>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyasagar06&" alt="priyasagar06" /></p>
