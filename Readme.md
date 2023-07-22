@@ -6,7 +6,7 @@
   <p>Here, you'll find a collection of projects, code samples, and resources that showcase my journey as a machine learning engineer.</p>
   <h2>🛠️ Popular Repositories</h2>
   <ol>
-    <li>DVC:  <a href="https://github.com/stars/ShubhPatil95/lists/dvc-tutorial">DVC Tutorial</a> </li>
+    <li>Car_Price_Prediction:  <a href="https://github.com/priyasagar06/Major-Project-1-Car_price-prediction.git">Car Price Prediction</a> </li>
     <li>MLFlow: <a href="https://github.com/stars/ShubhPatil95/lists/mlflow">MLFlow Tutorial</a> </li>
     <li>Flask: <a href="https://github.com/ShubhPatil95/Flask_Outputs_Methods">Flask Tutorial</a> </li>
   </ol>
