@@ -2,8 +2,8 @@
 <html>
 <body>
   <h1>Hi there! 👋 I'm Priya Sagar, a Data Science Learner🤖</h1>
-  <p>Welcome to my GitHub profile! I'm passionate about all things machine learning and AI, constantly exploring the frontiers of technology and data-driven solutions.</p>
-  <p>Here, you'll find a collection of projects, code samples, and resources that showcase my journey as a machine learning engineer.</p>
+  <p>Welcome to my GitHub profile! I'm passionate about things like Python,SQL & machine learning , constantly exploring the frontiers of technology and data-driven solutions.</p>
+  <p>Here, you'll find a collection of projects, code samples, and resources that showcase my journey as a Data Science Learner.</p>
   <h2>🛠️ Popular Repositories</h2>
   <ol>
     <li>Car_Price_Prediction:  <a href="https://github.com/priyasagar06/Major-Project-1-Car_price-prediction.git">Car Price Prediction</a> </li>
